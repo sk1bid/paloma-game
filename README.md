@@ -1,1 +1,1 @@
-# paloma-game
+### Paloma - EbitenEngine game on pure Go
